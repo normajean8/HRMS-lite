@@ -84,7 +84,7 @@ function App() {
         fontFamily: "Arial"
       }}
     >
-      <h1>HRMS Lite</h1>
+      <h1>HRMS Lite v2</h1>
 
       {/* Add Employee */}
       <h2>Add Employee</h2>
