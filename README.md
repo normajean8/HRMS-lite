@@ -77,21 +77,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-
-Backend runs on:
-
-http://127.0.0.1:8000
-
-Frontend
-cd frontend
-npm install
-npm run dev
-
-
-Frontend runs on:
-
-http://localhost:5173
-
 Assumptions & Limitations
 
 Single admin user (no authentication)
